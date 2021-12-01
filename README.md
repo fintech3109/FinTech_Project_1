@@ -1,4 +1,4 @@
-# UNIVERSAL BASIC INCOME
+# Universal Basic Income Analysis & Tools 
 
 
 
