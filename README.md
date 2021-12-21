@@ -1,3 +1,5 @@
+![Alt text](./UBI_PROJECT/images/IMG_8246.jpg)
+
 # Project Title
 
 An analysis of Universal Basic Income for former Territories of the Ottoman Empire- comprising 57 nation-states, and how emerging blockchain technologies can be used to regulate the institutional Requirements of the Ottoman Islamic legal framework, specifically the Requirements of Commodity or Commodity-Backed Monetary Systems.
