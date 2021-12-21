@@ -39,7 +39,6 @@ Calculator- CLI Interface is a tool for users to analyze relationship between th
 >##### Metal Api- Current prices of metals/ commodities used to manufacture coins. [List](./UBI_PROJECT/api/metals/API.ipynb)
 >##### Seigneuriage Calculator or Melt Value vs Face Value [Link](./UBI_PROJECT/calculator.ipynb) 
 
-![](./UBI_PROJECT/population_clock)
 ---
 
 ### License
