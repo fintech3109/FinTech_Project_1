@@ -40,7 +40,7 @@ Calculator- CLI Interface is a tool for users to analyze relationship between th
 >##### Seigneuriage Calculator or Melt Value vs Face Value [Link](./UBI_PROJECT/calculator.ipynb) 
 
 
-![](./population_clock.svg)
+![](./population_clock.html)
 
 ---
 
