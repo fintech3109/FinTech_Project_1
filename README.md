@@ -31,7 +31,7 @@ Calculator- CLI Interface is a tool for users to analyze relationship between th
 >##### A list of U.S. coins currently used as legal tender.
 >##### Percentage Breakdown of the metals used to mint both historical and existing U.S. coins.
 >##### Current prices of metals/ commodities used to manufacture coins. 
->##### Seigneuriage Calculator or Melt Value vs Face Value (embedded interest) 
+>##### Seigneuriage Calculator or Melt Value vs Face Value [Link](./UBI_PROJECT/calculator.ipynb) 
 
 
 ---
