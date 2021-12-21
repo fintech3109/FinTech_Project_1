@@ -8,7 +8,7 @@ Numismatic tools for Analyzing Universal Basic Income
 
 ### Introduction
 
-An analysis of Universal Basic Income for former Territories of the Ottoman Empire- currently 57 nation-states, and how emerging blockchain technologies can be used to regulate the institutional Requirements of the Ottoman Islamic legal framework, specifically the Requirements of Commodity or Commodity-Backed Monetary Systems.
+An analysis of Universal Basic Income for former Territories of the Ottoman Empire- currently 57 nation-states, and how emerging blockchain technologies can be used to regulate the institutional Requirements of existing Islamic legal framework affecting the former Ottoman Territories, specifically the Requirements of Commodity or Commodity-Backed Monetary Systems.
 
 The Calculator app is developed as a first phase in understanding the interdependencies between currencies used to price certain commodities which maybe used a inputs for a furture  coin. 
 
