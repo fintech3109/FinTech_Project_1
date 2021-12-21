@@ -1,14 +1,14 @@
 ![Alt text](./UBI_PROJECT/images/IMG_8246.jpg)
 
 ### Project Title
-Numismatic Approach to Universal Basic Income
+Numismatic tools for Analyzing Universal Basic Income
 
 ### Contributor
 >##### Hatem Al-Ghuti
 
 ### Introduction
 
-An analysis of Universal Basic Income for former Territories of the Ottoman Empire- comprising 57 nation-states, and how emerging blockchain technologies can be used to regulate the institutional Requirements of the Ottoman Islamic legal framework, specifically the Requirements of Commodity or Commodity-Backed Monetary Systems.
+An analysis of Universal Basic Income for former Territories of the Ottoman Empire- currently 57 nation-states, and how emerging blockchain technologies can be used to regulate the institutional Requirements of the Ottoman Islamic legal framework, specifically the Requirements of Commodity or Commodity-Backed Monetary Systems.
 
 The Calculator app is developed as a first phase in understanding the interdependencies between currencies used to price certain commodities which maybe used a inputs for a furture  coin. 
 
