@@ -28,7 +28,7 @@ For non technical users, click on colab.research.google.com then upload and run 
 
 Calculator- CLI Interface is a tool for users to analyze relationship between the price of certain commodities used to manufacture U.S. coins and the respective commodities priced in USD, to include:
 
->##### A list of U.S. coins currently used as legal tender.
+>##### A list of U.S. coins currently used as legal tender.[Link](./UBI_PROJECT/Coins/coin_list/Coin-Catalog.pdf)
 >##### Percentage Breakdown of the metals used to mint both historical and existing U.S. coins.
 >##### Current prices of metals/ commodities used to manufacture coins. 
 >##### Seigneuriage Calculator or Melt Value vs Face Value [Link](./UBI_PROJECT/calculator.ipynb) 
