@@ -20,7 +20,7 @@ The Calculator app is developed as a first phase in understanding the interdepen
 
 For non technical users, click on colab.research.google.com then upload and run the UBI_PROJECT folder in google colabs. 
 
-
+![Alt text](./UBI_PROJECT/images/colab_research_google.png)
 
 ---
 
