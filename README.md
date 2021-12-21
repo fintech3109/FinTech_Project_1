@@ -1,6 +1,12 @@
 ![Alt text](./UBI_PROJECT/images/IMG_8246.jpg)
 
-# Project Title
+### Project Title
+Numismatic Approach to Universal Basic Income
+
+### Contributor
+>##### Hatem Al-Ghuti
+
+### Introduction
 
 An analysis of Universal Basic Income for former Territories of the Ottoman Empire- comprising 57 nation-states, and how emerging blockchain technologies can be used to regulate the institutional Requirements of the Ottoman Islamic legal framework, specifically the Requirements of Commodity or Commodity-Backed Monetary Systems.
 
@@ -8,7 +14,7 @@ The Calculator app is developed as a first phase in understanding the interdepen
 
 ---
 
-## Technologies
+### Technologies
 
 >##### Python
 >##### numpy
@@ -16,7 +22,7 @@ The Calculator app is developed as a first phase in understanding the interdepen
 
 ---
 
-## Installation Guide
+### Installation Guide
 
 For non technical users, click on colab.research.google.com then upload and run the UBI_PROJECT folder in google colabs. 
 
@@ -24,7 +30,7 @@ For non technical users, click on colab.research.google.com then upload and run 
 
 ---
 
-## Usage
+### Usage
 
 Calculator- CLI Interface is a tool for users to analyze relationship between the price of certain commodities used to manufacture U.S. coins and the respective commodities priced in USD. The tool is based on the follow:
 
@@ -36,6 +42,6 @@ Calculator- CLI Interface is a tool for users to analyze relationship between th
 
 ---
 
-## License
+### License
 
 Fintech3109 Copyright 2021
